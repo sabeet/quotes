@@ -31,32 +31,32 @@ function App() {
         </div>
         <div className="flex flex-col col-span-6">
           <div className="flex flex-row">
-            <div>"id" : "</div>
-            <div className="text-green-400">{quotes.id}"</div>
+            <div>"id" : </div>
+            <div className="text-green-400">"{quotes.id}"</div>
           </div>
           <div className="flex flex-row">
-            <div>"English" : </div>"
-            <div className="text-green-400">{quotes.quote_english}"</div>,
+            <div>"English" : </div>
+            <div className="text-green-400"> "{quotes.quote_english}"</div>,
           </div>
           <div className="flex flex-row">
-            <div>"Bangla" : </div>"
-            <div className="text-green-400">{quotes.quote_bangla}"</div>,
+            <div>"Bangla" : </div>
+            <div className="text-green-400"> "{quotes.quote_bangla}"</div>,
           </div>
           <div className="flex flex-row">
-            <div>"Spanish" : </div>"
-            <div className="text-green-400">{quotes.quote_spanish}"</div>,
+            <div>"Spanish" : </div>
+            <div className="text-green-400"> "{quotes.quote_spanish}"</div>,
           </div>
           <div className="flex flex-row">
-            <div>"Arabic" : </div>"
-            <div className="text-green-400">{quotes.quote_arabic}"</div>,
+            <div>"Arabic" : </div>
+            <div className="text-green-400"> "{quotes.quote_arabic}"</div>,
           </div>
           <div className="flex flex-row">
-            <div>"Hindi" : </div>"
-            <div className="text-green-400">{quotes.quote_hindi}"</div>,
+            <div>"Hindi" : </div>
+            <div className="text-green-400"> "{quotes.quote_hindi}"</div>,
           </div>
           <div className="flex flex-row">
-            <div>"Japanese" : </div>"
-            <div className="text-green-400">{quotes.quote_japanese}"</div>
+            <div>"Japanese" : </div>
+            <div className="text-green-400"> "{quotes.quote_japanese}"</div>
           </div>
         </div>
       </div>
