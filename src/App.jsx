@@ -25,7 +25,7 @@ function App() {
       <div className="text-xl p-2"> &#123; </div>
       <div className="flex flex-row">
         <div> &nbsp; </div>
-        <div class="grid grid-cols-3 divide-x">
+        <div class="grid grid-cols-3 divide-x divide-dotted">
           <div>&nbsp;</div>
           <div>&nbsp;</div>
         </div>
